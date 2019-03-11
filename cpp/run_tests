@@ -1,0 +1,36 @@
+#!/bin/sh
+
+dir_in=../tests_in
+dir_out=tests_out_by_photo
+exec=$1
+ans=$2
+
+date
+echo part b
+$exec < $dir_in/b_lovely_landscapes.txt > $dir_out/${ans}_b.txt
+head -n 4 $dir_out/${ans}_b.txt
+sed 1,4d $dir_out/${ans}_b.txt > $dir_out/${ans}_format_b.txt
+cp log_photo.txt $dir_out/${ans}_log_b.txt
+
+date
+echo part c
+$exec < $dir_in/c_memorable_moments.txt > $dir_out/${ans}_c.txt
+head -n 4 $dir_out/${ans}_c.txt
+sed 1,4d $dir_out/${ans}_c.txt > $dir_out/${ans}_format_c.txt
+cp log_photo.txt $dir_out/${ans}_log_c.txt
+
+date
+echo part d
+$exec < $dir_in/d_pet_pictures.txt > $dir_out/${ans}_d.txt
+head -n 4 $dir_out/${ans}_d.txt
+sed 1,4d $dir_out/${ans}_d.txt > $dir_out/${ans}_format_d.txt
+cp log_photo.txt $dir_out/${ans}_log_d.txt
+
+date
+echo part e
+$exec < $dir_in/e_shiny_selfies.txt > $dir_out/${ans}_e.txt
+head -n 4 $dir_out/${ans}_e.txt
+sed 1,4d $dir_out/${ans}_e.txt > $dir_out/${ans}_format_e.txt
+cp log_photo.txt $dir_out/${ans}_log_e.txt
+
+date

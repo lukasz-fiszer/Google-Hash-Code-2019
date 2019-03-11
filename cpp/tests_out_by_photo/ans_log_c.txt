@@ -1,0 +1,749 @@
+slideshow index: 1, added photo index: 576, added slide score: 2
+slideshow index: 2, added photo indexes: 814 760, added photo score 2 4
+slideshow index: 3, added photo index: 936, added slide score: 4
+slideshow index: 4, added photo indexes: 482 636, added photo score 3 5
+slideshow index: 5, added photo indexes: 769 952, added photo score 3 5
+slideshow index: 6, added photo indexes: 862 813, added photo score 2 4
+slideshow index: 7, added photo index: 994, added slide score: 2
+slideshow index: 8, added photo indexes: 918 492, added photo score 2 4
+slideshow index: 9, added photo indexes: 995 930, added photo score 2 4
+slideshow index: 10, added photo index: 779, added slide score: 4
+slideshow index: 11, added photo index: 963, added slide score: 2
+slideshow index: 12, added photo indexes: 847 977, added photo score 2 3
+slideshow index: 13, added photo indexes: 937 670, added photo score 3 6
+slideshow index: 14, added photo indexes: 137 982, added photo score 4 6
+slideshow index: 15, added photo indexes: 991 789, added photo score 3 6
+slideshow index: 16, added photo indexes: 481 912, added photo score 3 5
+slideshow index: 17, added photo indexes: 339 984, added photo score 3 5
+slideshow index: 18, added photo indexes: 735 461, added photo score 3 6
+slideshow index: 19, added photo index: 889, added slide score: 3
+slideshow index: 20, added photo index: 966, added slide score: 2
+slideshow index: 21, added photo index: 983, added slide score: 1
+slideshow index: 22, added photo index: 645, added slide score: 2
+slideshow index: 23, added photo indexes: 856 985, added photo score 2 3
+slideshow index: 24, added photo index: 663, added slide score: 2
+slideshow index: 25, added photo index: 907, added slide score: 2
+slideshow index: 26, added photo indexes: 759 960, added photo score 2 3
+slideshow index: 27, added photo index: 559, added slide score: 3
+slideshow index: 28, added photo index: 887, added slide score: 2
+slideshow index: 29, added photo indexes: 965 609, added photo score 2 4
+slideshow index: 30, added photo index: 272, added slide score: 3
+slideshow index: 31, added photo index: 987, added slide score: 2
+slideshow index: 32, added photo indexes: 873 262, added photo score 2 4
+slideshow index: 33, added photo indexes: 661 758, added photo score 3 5
+slideshow index: 34, added photo indexes: 155 947, added photo score 4 6
+slideshow index: 35, added photo index: 225, added slide score: 4
+slideshow index: 36, added photo indexes: 993 76, added photo score 2 4
+slideshow index: 37, added photo index: 145, added slide score: 4
+slideshow index: 38, added photo index: 768, added slide score: 3
+slideshow index: 39, added photo indexes: 800 153, added photo score 2 4
+slideshow index: 40, added photo indexes: 808 452, added photo score 3 6
+slideshow index: 41, added photo indexes: 726 956, added photo score 3 5
+slideshow index: 42, added photo index: 557, added slide score: 3
+slideshow index: 43, added photo index: 509, added slide score: 3
+slideshow index: 44, added photo index: 969, added slide score: 2
+slideshow index: 45, added photo indexes: 840 517, added photo score 2 4
+slideshow index: 46, added photo indexes: 751 401, added photo score 3 6
+slideshow index: 47, added photo indexes: 392 817, added photo score 3 5
+slideshow index: 48, added photo indexes: 662 832, added photo score 4 7
+slideshow index: 49, added photo indexes: 698 607, added photo score 3 6
+slideshow index: 50, added photo index: 591, added slide score: 2
+slideshow index: 51, added photo indexes: 513 979, added photo score 3 4
+slideshow index: 52, added photo indexes: 51 911, added photo score 3 5
+slideshow index: 53, added photo index: 723, added slide score: 3
+slideshow index: 54, added photo index: 627, added slide score: 3
+slideshow index: 55, added photo index: 959, added slide score: 2
+slideshow index: 56, added photo indexes: 414 999, added photo score 2 2
+slideshow index: 57, added photo index: 416, added slide score: 3
+slideshow index: 58, added photo index: 888, added slide score: 2
+slideshow index: 59, added photo indexes: 818 973, added photo score 2 3
+slideshow index: 60, added photo index: 588, added slide score: 3
+slideshow index: 61, added photo indexes: 350 846, added photo score 3 5
+slideshow index: 62, added photo index: 939, added slide score: 3
+slideshow index: 63, added photo indexes: 797 562, added photo score 2 4
+slideshow index: 64, added photo index: 971, added slide score: 2
+slideshow index: 65, added photo index: 616, added slide score: 2
+slideshow index: 66, added photo index: 755, added slide score: 2
+slideshow index: 67, added photo indexes: 249 932, added photo score 2 3
+slideshow index: 68, added photo index: 931, added slide score: 3
+slideshow index: 69, added photo index: 73, added slide score: 2
+slideshow index: 70, added photo indexes: 796 866, added photo score 2 3
+slideshow index: 71, added photo indexes: 957 795, added photo score 3 5
+slideshow index: 72, added photo index: 109, added slide score: 3
+slideshow index: 73, added photo index: 820, added slide score: 3
+slideshow index: 74, added photo index: 864, added slide score: 2
+slideshow index: 75, added photo index: 997, added slide score: 2
+slideshow index: 76, added photo indexes: 290 988, added photo score 3 4
+slideshow index: 77, added photo index: 998, added slide score: 3
+slideshow index: 78, added photo index: 761, added slide score: 2
+slideshow index: 79, added photo indexes: 798 711, added photo score 2 4
+slideshow index: 80, added photo index: 809, added slide score: 2
+slideshow index: 81, added photo index: 921, added slide score: 2
+slideshow index: 82, added photo indexes: 837 365, added photo score 2 4
+slideshow index: 83, added photo indexes: 686 324, added photo score 3 6
+slideshow index: 84, added photo index: 874, added slide score: 2
+slideshow index: 85, added photo indexes: 583 765, added photo score 2 3
+slideshow index: 86, added photo index: 933, added slide score: 2
+slideshow index: 87, added photo index: 356, added slide score: 2
+slideshow index: 88, added photo index: 992, added slide score: 2
+slideshow index: 89, added photo index: 641, added slide score: 2
+slideshow index: 90, added photo index: 978, added slide score: 1
+slideshow index: 91, added photo index: 722, added slide score: 2
+slideshow index: 92, added photo indexes: 619 996, added photo score 2 2
+slideshow index: 93, added photo index: 450, added slide score: 3
+slideshow index: 94, added photo index: 81, added slide score: 3
+slideshow index: 95, added photo index: 725, added slide score: 2
+slideshow index: 96, added photo index: 472, added slide score: 2
+slideshow index: 97, added photo indexes: 919 940, added photo score 2 3
+slideshow index: 98, added photo index: 594, added slide score: 2
+slideshow index: 99, added photo index: 830, added slide score: 2
+slideshow index: 100, added photo indexes: 740 200, added photo score 2 4
+slideshow index: 101, added photo index: 739, added slide score: 3
+slideshow index: 102, added photo indexes: 920 858, added photo score 2 4
+slideshow index: 103, added photo index: 707, added slide score: 3
+slideshow index: 104, added photo index: 745, added slide score: 2
+slideshow index: 105, added photo index: 451, added slide score: 3
+slideshow index: 106, added photo index: 803, added slide score: 2
+slideshow index: 107, added photo index: 886, added slide score: 2
+slideshow index: 108, added photo index: 746, added slide score: 2
+slideshow index: 109, added photo index: 913, added slide score: 2
+slideshow index: 110, added photo indexes: 806 338, added photo score 2 4
+slideshow index: 111, added photo index: 320, added slide score: 3
+slideshow index: 112, added photo indexes: 409 102, added photo score 3 5
+slideshow index: 113, added photo indexes: 236 882, added photo score 4 6
+slideshow index: 114, added photo index: 251, added slide score: 3
+slideshow index: 115, added photo indexes: 825 664, added photo score 2 4
+slideshow index: 116, added photo indexes: 894 774, added photo score 4 6
+slideshow index: 117, added photo index: 314, added slide score: 3
+slideshow index: 118, added photo indexes: 744 146, added photo score 2 4
+slideshow index: 119, added photo index: 743, added slide score: 3
+slideshow index: 120, added photo index: 648, added slide score: 2
+slideshow index: 121, added photo index: 962, added slide score: 2
+slideshow index: 122, added photo indexes: 841 552, added photo score 2 4
+slideshow index: 123, added photo indexes: 572 953, added photo score 3 5
+slideshow index: 124, added photo indexes: 915 903, added photo score 2 4
+slideshow index: 125, added photo index: 467, added slide score: 3
+slideshow index: 126, added photo indexes: 861 134, added photo score 2 4
+slideshow index: 127, added photo index: 179, added slide score: 3
+slideshow index: 128, added photo index: 905, added slide score: 2
+slideshow index: 129, added photo index: 463, added slide score: 2
+slideshow index: 130, added photo index: 727, added slide score: 2
+slideshow index: 131, added photo index: 613, added slide score: 2
+slideshow index: 132, added photo indexes: 961 916, added photo score 1 2
+slideshow index: 133, added photo index: 728, added slide score: 3
+slideshow index: 134, added photo index: 942, added slide score: 2
+slideshow index: 135, added photo index: 541, added slide score: 2
+slideshow index: 136, added photo indexes: 465 226, added photo score 2 4
+slideshow index: 137, added photo index: 878, added slide score: 2
+slideshow index: 138, added photo index: 852, added slide score: 2
+slideshow index: 139, added photo index: 480, added slide score: 2
+slideshow index: 140, added photo index: 951, added slide score: 2
+slideshow index: 141, added photo index: 742, added slide score: 3
+slideshow index: 142, added photo index: 533, added slide score: 2
+slideshow index: 143, added photo index: 899, added slide score: 2
+slideshow index: 144, added photo index: 890, added slide score: 2
+slideshow index: 145, added photo indexes: 630 857, added photo score 2 3
+slideshow index: 146, added photo index: 423, added slide score: 3
+slideshow index: 147, added photo index: 756, added slide score: 3
+slideshow index: 148, added photo indexes: 620 563, added photo score 2 4
+slideshow index: 149, added photo indexes: 394 927, added photo score 4 6
+slideshow index: 150, added photo indexes: 884 437, added photo score 2 4
+slideshow index: 151, added photo indexes: 891 8, added photo score 2 4
+slideshow index: 152, added photo index: 860, added slide score: 3
+slideshow index: 153, added photo indexes: 525 335, added photo score 2 4
+slideshow index: 154, added photo index: 281, added slide score: 3
+slideshow index: 155, added photo indexes: 511 443, added photo score 2 4
+slideshow index: 156, added photo indexes: 263 695, added photo score 3 5
+slideshow index: 157, added photo index: 247, added slide score: 3
+slideshow index: 158, added photo index: 255, added slide score: 3
+slideshow index: 159, added photo index: 924, added slide score: 2
+slideshow index: 160, added photo indexes: 753 522, added photo score 2 4
+slideshow index: 161, added photo indexes: 415 628, added photo score 3 5
+slideshow index: 162, added photo indexes: 697 675, added photo score 2 4
+slideshow index: 163, added photo index: 851, added slide score: 2
+slideshow index: 164, added photo indexes: 716 438, added photo score 2 4
+slideshow index: 165, added photo indexes: 405 162, added photo score 3 6
+slideshow index: 166, added photo index: 462, added slide score: 3
+slideshow index: 167, added photo indexes: 834 469, added photo score 2 4
+slideshow index: 168, added photo index: 908, added slide score: 2
+slideshow index: 169, added photo index: 950, added slide score: 2
+slideshow index: 170, added photo indexes: 622 129, added photo score 2 4
+slideshow index: 171, added photo index: 712, added slide score: 4
+slideshow index: 172, added photo index: 845, added slide score: 2
+slideshow index: 173, added photo index: 623, added slide score: 2
+slideshow index: 174, added photo index: 502, added slide score: 2
+slideshow index: 175, added photo index: 468, added slide score: 2
+slideshow index: 176, added photo indexes: 160 801, added photo score 3 4
+slideshow index: 177, added photo index: 216, added slide score: 3
+slideshow index: 178, added photo indexes: 805 495, added photo score 2 4
+slideshow index: 179, added photo indexes: 161 455, added photo score 3 5
+slideshow index: 180, added photo index: 732, added slide score: 2
+slideshow index: 181, added photo indexes: 750 657, added photo score 2 4
+slideshow index: 182, added photo indexes: 545 289, added photo score 2 4
+slideshow index: 183, added photo indexes: 879 990, added photo score 3 5
+slideshow index: 184, added photo indexes: 788 487, added photo score 2 4
+slideshow index: 185, added photo index: 850, added slide score: 2
+slideshow index: 186, added photo indexes: 853 898, added photo score 2 3
+slideshow index: 187, added photo index: 785, added slide score: 2
+slideshow index: 188, added photo indexes: 901 934, added photo score 2 3
+slideshow index: 189, added photo index: 299, added slide score: 3
+slideshow index: 190, added photo indexes: 422 386, added photo score 2 4
+slideshow index: 191, added photo index: 972, added slide score: 2
+slideshow index: 192, added photo index: 329, added slide score: 2
+slideshow index: 193, added photo index: 504, added slide score: 2
+slideshow index: 194, added photo indexes: 876 980, added photo score 2 3
+slideshow index: 195, added photo indexes: 816 359, added photo score 2 4
+slideshow index: 196, added photo index: 821, added slide score: 2
+slideshow index: 197, added photo indexes: 589 544, added photo score 2 4
+slideshow index: 198, added photo indexes: 88 80, added photo score 3 5
+slideshow index: 199, added photo index: 914, added slide score: 2
+slideshow index: 200, added photo index: 923, added slide score: 1
+slideshow index: 201, added photo index: 556, added slide score: 2
+slideshow index: 202, added photo indexes: 341 958, added photo score 2 3
+slideshow index: 203, added photo indexes: 231 543, added photo score 3 5
+slideshow index: 204, added photo indexes: 737 580, added photo score 3 5
+slideshow index: 205, added photo index: 855, added slide score: 2
+slideshow index: 206, added photo indexes: 542 252, added photo score 2 4
+slideshow index: 207, added photo index: 435, added slide score: 2
+slideshow index: 208, added photo index: 677, added slide score: 2
+slideshow index: 209, added photo index: 802, added slide score: 2
+slideshow index: 210, added photo indexes: 835 833, added photo score 2 4
+slideshow index: 211, added photo indexes: 243 91, added photo score 3 6
+slideshow index: 212, added photo indexes: 553 238, added photo score 3 6
+slideshow index: 213, added photo index: 125, added slide score: 3
+slideshow index: 214, added photo index: 550, added slide score: 2
+slideshow index: 215, added photo indexes: 99 376, added photo score 3 5
+slideshow index: 216, added photo index: 880, added slide score: 2
+slideshow index: 217, added photo index: 922, added slide score: 2
+slideshow index: 218, added photo indexes: 881 968, added photo score 2 3
+slideshow index: 219, added photo index: 896, added slide score: 2
+slideshow index: 220, added photo indexes: 872 494, added photo score 2 4
+slideshow index: 221, added photo index: 757, added slide score: 3
+slideshow index: 222, added photo indexes: 967 883, added photo score 1 2
+slideshow index: 223, added photo index: 771, added slide score: 2
+slideshow index: 224, added photo index: 560, added slide score: 2
+slideshow index: 225, added photo indexes: 945 635, added photo score 1 2
+slideshow index: 226, added photo indexes: 770 615, added photo score 2 4
+slideshow index: 227, added photo index: 103, added slide score: 3
+slideshow index: 228, added photo index: 286, added slide score: 3
+slideshow index: 229, added photo indexes: 388 156, added photo score 3 5
+slideshow index: 230, added photo indexes: 475 885, added photo score 3 5
+slideshow index: 231, added photo indexes: 581 705, added photo score 3 5
+slideshow index: 232, added photo index: 391, added slide score: 3
+slideshow index: 233, added photo index: 241, added slide score: 2
+slideshow index: 234, added photo index: 678, added slide score: 2
+slideshow index: 235, added photo index: 747, added slide score: 2
+slideshow index: 236, added photo indexes: 668 717, added photo score 2 3
+slideshow index: 237, added photo indexes: 617 372, added photo score 3 5
+slideshow index: 238, added photo indexes: 55 721, added photo score 3 5
+slideshow index: 239, added photo index: 986, added slide score: 2
+slideshow index: 240, added photo indexes: 280 828, added photo score 2 3
+slideshow index: 241, added photo indexes: 763 566, added photo score 2 4
+slideshow index: 242, added photo indexes: 215 871, added photo score 3 5
+slideshow index: 243, added photo indexes: 720 371, added photo score 2 4
+slideshow index: 244, added photo index: 718, added slide score: 2
+slideshow index: 245, added photo index: 254, added slide score: 2
+slideshow index: 246, added photo index: 815, added slide score: 2
+slideshow index: 247, added photo indexes: 355 943, added photo score 3 4
+slideshow index: 248, added photo indexes: 410 949, added photo score 3 4
+slideshow index: 249, added photo indexes: 578 133, added photo score 2 5
+slideshow index: 250, added photo indexes: 564 375, added photo score 2 4
+slideshow index: 251, added photo index: 926, added slide score: 2
+slideshow index: 252, added photo index: 754, added slide score: 2
+slideshow index: 253, added photo indexes: 603 781, added photo score 2 3
+slideshow index: 254, added photo indexes: 524 195, added photo score 2 4
+slideshow index: 255, added photo index: 694, added slide score: 2
+slideshow index: 256, added photo index: 938, added slide score: 1
+slideshow index: 257, added photo index: 479, added slide score: 2
+slideshow index: 258, added photo index: 296, added slide score: 2
+slideshow index: 259, added photo indexes: 169 941, added photo score 2 3
+slideshow index: 260, added photo indexes: 40 974, added photo score 3 5
+slideshow index: 261, added photo index: 859, added slide score: 2
+slideshow index: 262, added photo indexes: 579 981, added photo score 2 2
+slideshow index: 263, added photo index: 867, added slide score: 2
+slideshow index: 264, added photo index: 767, added slide score: 2
+slideshow index: 265, added photo index: 260, added slide score: 2
+slideshow index: 266, added photo index: 877, added slide score: 2
+slideshow index: 267, added photo index: 532, added slide score: 2
+slideshow index: 268, added photo index: 499, added slide score: 2
+slideshow index: 269, added photo indexes: 227 892, added photo score 2 3
+slideshow index: 270, added photo index: 895, added slide score: 2
+slideshow index: 271, added photo index: 944, added slide score: 1
+slideshow index: 272, added photo indexes: 928 794, added photo score 1 2
+slideshow index: 273, added photo index: 671, added slide score: 2
+slideshow index: 274, added photo index: 776, added slide score: 2
+slideshow index: 275, added photo indexes: 173 703, added photo score 2 3
+slideshow index: 276, added photo index: 900, added slide score: 2
+slideshow index: 277, added photo indexes: 749 681, added photo score 2 3
+slideshow index: 278, added photo index: 804, added slide score: 2
+slideshow index: 279, added photo index: 865, added slide score: 1
+slideshow index: 280, added photo index: 669, added slide score: 2
+slideshow index: 281, added photo index: 843, added slide score: 1
+slideshow index: 282, added photo indexes: 897 824, added photo score 1 2
+slideshow index: 283, added photo indexes: 454 93, added photo score 3 5
+slideshow index: 284, added photo index: 644, added slide score: 2
+slideshow index: 285, added photo index: 309, added slide score: 3
+slideshow index: 286, added photo indexes: 637 773, added photo score 2 3
+slideshow index: 287, added photo index: 829, added slide score: 2
+slideshow index: 288, added photo index: 970, added slide score: 1
+slideshow index: 289, added photo index: 575, added slide score: 2
+slideshow index: 290, added photo index: 38, added slide score: 2
+slideshow index: 291, added photo index: 826, added slide score: 2
+slideshow index: 292, added photo index: 493, added slide score: 2
+slideshow index: 293, added photo indexes: 631 946, added photo score 2 2
+slideshow index: 294, added photo indexes: 632 12, added photo score 2 4
+slideshow index: 295, added photo index: 629, added slide score: 2
+slideshow index: 296, added photo index: 812, added slide score: 2
+slideshow index: 297, added photo index: 777, added slide score: 2
+slideshow index: 298, added photo indexes: 585 683, added photo score 2 3
+slideshow index: 299, added photo index: 352, added slide score: 2
+slideshow index: 300, added photo indexes: 676 598, added photo score 2 3
+slideshow index: 301, added photo index: 640, added slide score: 2
+slideshow index: 302, added photo index: 719, added slide score: 1
+slideshow index: 303, added photo index: 440, added slide score: 2
+slideshow index: 304, added photo index: 839, added slide score: 1
+slideshow index: 305, added photo index: 178, added slide score: 2
+slideshow index: 306, added photo indexes: 710 810, added photo score 2 3
+slideshow index: 307, added photo index: 300, added slide score: 3
+slideshow index: 308, added photo index: 827, added slide score: 2
+slideshow index: 309, added photo index: 807, added slide score: 1
+slideshow index: 310, added photo index: 574, added slide score: 2
+slideshow index: 311, added photo index: 508, added slide score: 2
+slideshow index: 312, added photo index: 539, added slide score: 2
+slideshow index: 313, added photo indexes: 625 714, added photo score 2 3
+slideshow index: 314, added photo index: 724, added slide score: 2
+slideshow index: 315, added photo index: 201, added slide score: 2
+slideshow index: 316, added photo index: 121, added slide score: 2
+slideshow index: 317, added photo indexes: 373 476, added photo score 2 3
+slideshow index: 318, added photo index: 189, added slide score: 2
+slideshow index: 319, added photo indexes: 124 701, added photo score 2 3
+slideshow index: 320, added photo index: 364, added slide score: 2
+slideshow index: 321, added photo index: 733, added slide score: 2
+slideshow index: 322, added photo index: 935, added slide score: 1
+slideshow index: 323, added photo indexes: 259 147, added photo score 2 4
+slideshow index: 324, added photo indexes: 665 114, added photo score 2 4
+slideshow index: 325, added photo index: 799, added slide score: 2
+slideshow index: 326, added photo index: 453, added slide score: 2
+slideshow index: 327, added photo index: 875, added slide score: 1
+slideshow index: 328, added photo indexes: 214 548, added photo score 2 3
+slideshow index: 329, added photo index: 538, added slide score: 2
+slideshow index: 330, added photo index: 196, added slide score: 2
+slideshow index: 331, added photo index: 436, added slide score: 3
+slideshow index: 332, added photo indexes: 413 337, added photo score 3 5
+slideshow index: 333, added photo indexes: 484 248, added photo score 3 5
+slideshow index: 334, added photo indexes: 224 573, added photo score 3 5
+slideshow index: 335, added photo index: 483, added slide score: 3
+slideshow index: 336, added photo index: 154, added slide score: 2
+slideshow index: 337, added photo indexes: 868 659, added photo score 2 3
+slideshow index: 338, added photo indexes: 752 904, added photo score 2 3
+slideshow index: 339, added photo indexes: 501 838, added photo score 2 3
+slideshow index: 340, added photo indexes: 624 95, added photo score 3 5
+slideshow index: 341, added photo index: 650, added slide score: 2
+slideshow index: 342, added photo indexes: 288 910, added photo score 2 3
+slideshow index: 343, added photo index: 89, added slide score: 3
+slideshow index: 344, added photo indexes: 490 715, added photo score 2 3
+slideshow index: 345, added photo index: 688, added slide score: 3
+slideshow index: 346, added photo index: 258, added slide score: 2
+slideshow index: 347, added photo index: 656, added slide score: 1
+slideshow index: 348, added photo index: 849, added slide score: 1
+slideshow index: 349, added photo index: 964, added slide score: 2
+slideshow index: 350, added photo index: 605, added slide score: 3
+slideshow index: 351, added photo index: 516, added slide score: 2
+slideshow index: 352, added photo indexes: 271 47, added photo score 2 4
+slideshow index: 353, added photo index: 870, added slide score: 2
+slideshow index: 354, added photo index: 989, added slide score: 1
+slideshow index: 355, added photo index: 831, added slide score: 1
+slideshow index: 356, added photo index: 975, added slide score: 1
+slideshow index: 357, added photo indexes: 709 85, added photo score 2 4
+slideshow index: 358, added photo index: 906, added slide score: 2
+slideshow index: 359, added photo index: 775, added slide score: 2
+slideshow index: 360, added photo index: 22, added slide score: 3
+slideshow index: 361, added photo index: 555, added slide score: 2
+slideshow index: 362, added photo index: 954, added slide score: 1
+slideshow index: 363, added photo index: 842, added slide score: 1
+slideshow index: 364, added photo index: 790, added slide score: 1
+slideshow index: 365, added photo index: 976, added slide score: 1
+slideshow index: 366, added photo index: 917, added slide score: 1
+slideshow index: 367, added photo index: 863, added slide score: 1
+slideshow index: 368, added photo indexes: 762 689, added photo score 1 2
+slideshow index: 369, added photo index: 332, added slide score: 2
+slideshow index: 370, added photo index: 778, added slide score: 2
+slideshow index: 371, added photo index: 361, added slide score: 2
+slideshow index: 372, added photo index: 277, added slide score: 2
+slideshow index: 373, added photo index: 836, added slide score: 2
+slideshow index: 374, added photo index: 706, added slide score: 2
+slideshow index: 375, added photo index: 638, added slide score: 2
+slideshow index: 376, added photo index: 325, added slide score: 2
+slideshow index: 377, added photo indexes: 285 595, added photo score 2 3
+slideshow index: 378, added photo indexes: 67 30, added photo score 3 5
+slideshow index: 379, added photo indexes: 929 31, added photo score 3 5
+slideshow index: 380, added photo index: 92, added slide score: 3
+slideshow index: 381, added photo index: 514, added slide score: 2
+slideshow index: 382, added photo index: 222, added slide score: 3
+slideshow index: 383, added photo index: 869, added slide score: 2
+slideshow index: 384, added photo indexes: 653 547, added photo score 2 3
+slideshow index: 385, added photo index: 702, added slide score: 2
+slideshow index: 386, added photo index: 348, added slide score: 2
+slideshow index: 387, added photo index: 611, added slide score: 2
+slideshow index: 388, added photo index: 741, added slide score: 2
+slideshow index: 389, added photo index: 219, added slide score: 2
+slideshow index: 390, added photo index: 955, added slide score: 2
+slideshow index: 391, added photo index: 780, added slide score: 1
+slideshow index: 392, added photo index: 658, added slide score: 1
+slideshow index: 393, added photo index: 819, added slide score: 1
+slideshow index: 394, added photo index: 679, added slide score: 2
+slideshow index: 395, added photo indexes: 242 660, added photo score 2 3
+slideshow index: 396, added photo index: 113, added slide score: 3
+slideshow index: 397, added photo index: 604, added slide score: 2
+slideshow index: 398, added photo index: 713, added slide score: 2
+slideshow index: 399, added photo indexes: 306 731, added photo score 2 3
+slideshow index: 400, added photo indexes: 105 608, added photo score 2 3
+slideshow index: 401, added photo indexes: 470 46, added photo score 2 4
+slideshow index: 402, added photo indexes: 503 198, added photo score 2 4
+slideshow index: 403, added photo index: 596, added slide score: 2
+slideshow index: 404, added photo index: 567, added slide score: 3
+slideshow index: 405, added photo index: 23, added slide score: 3
+slideshow index: 406, added photo indexes: 674 108, added photo score 2 4
+slideshow index: 407, added photo index: 531, added slide score: 2
+slideshow index: 408, added photo index: 313, added slide score: 2
+slideshow index: 409, added photo indexes: 402 330, added photo score 3 5
+slideshow index: 410, added photo index: 787, added slide score: 2
+slideshow index: 411, added photo indexes: 273 534, added photo score 2 3
+slideshow index: 412, added photo index: 708, added slide score: 2
+slideshow index: 413, added photo indexes: 417 464, added photo score 2 3
+slideshow index: 414, added photo index: 457, added slide score: 2
+slideshow index: 415, added photo indexes: 571 96, added photo score 2 4
+slideshow index: 416, added photo index: 497, added slide score: 2
+slideshow index: 417, added photo index: 536, added slide score: 2
+slideshow index: 418, added photo index: 34, added slide score: 2
+slideshow index: 419, added photo indexes: 577 175, added photo score 2 4
+slideshow index: 420, added photo index: 792, added slide score: 1
+slideshow index: 421, added photo indexes: 684 612, added photo score 1 2
+slideshow index: 422, added photo index: 584, added slide score: 2
+slideshow index: 423, added photo index: 412, added slide score: 2
+slideshow index: 424, added photo indexes: 18 685, added photo score 2 3
+slideshow index: 425, added photo index: 211, added slide score: 2
+slideshow index: 426, added photo index: 925, added slide score: 2
+slideshow index: 427, added photo index: 592, added slide score: 1
+slideshow index: 428, added photo index: 614, added slide score: 1
+slideshow index: 429, added photo indexes: 295 244, added photo score 2 4
+slideshow index: 430, added photo index: 488, added slide score: 2
+slideshow index: 431, added photo index: 736, added slide score: 2
+slideshow index: 432, added photo index: 730, added slide score: 2
+slideshow index: 433, added photo index: 181, added slide score: 2
+slideshow index: 434, added photo index: 546, added slide score: 2
+slideshow index: 435, added photo index: 404, added slide score: 2
+slideshow index: 436, added photo index: 370, added slide score: 2
+slideshow index: 437, added photo index: 159, added slide score: 2
+slideshow index: 438, added photo index: 784, added slide score: 1
+slideshow index: 439, added photo index: 654, added slide score: 2
+slideshow index: 440, added photo index: 549, added slide score: 2
+slideshow index: 441, added photo index: 766, added slide score: 1
+slideshow index: 442, added photo indexes: 700 496, added photo score 1 2
+slideshow index: 443, added photo indexes: 138 666, added photo score 2 3
+slideshow index: 444, added photo index: 387, added slide score: 3
+slideshow index: 445, added photo index: 430, added slide score: 2
+slideshow index: 446, added photo index: 507, added slide score: 2
+slideshow index: 447, added photo indexes: 207 793, added photo score 2 3
+slideshow index: 448, added photo index: 334, added slide score: 2
+slideshow index: 449, added photo indexes: 586 601, added photo score 2 3
+slideshow index: 450, added photo index: 275, added slide score: 3
+slideshow index: 451, added photo index: 561, added slide score: 2
+slideshow index: 452, added photo index: 647, added slide score: 2
+slideshow index: 453, added photo index: 500, added slide score: 2
+slideshow index: 454, added photo index: 791, added slide score: 1
+slideshow index: 455, added photo index: 687, added slide score: 1
+slideshow index: 456, added photo index: 692, added slide score: 1
+slideshow index: 457, added photo index: 267, added slide score: 2
+slideshow index: 458, added photo indexes: 902 498, added photo score 1 2
+slideshow index: 459, added photo indexes: 444 782, added photo score 2 3
+slideshow index: 460, added photo indexes: 237 587, added photo score 2 3
+slideshow index: 461, added photo indexes: 20 651, added photo score 2 3
+slideshow index: 462, added photo indexes: 618 582, added photo score 2 4
+slideshow index: 463, added photo index: 704, added slide score: 2
+slideshow index: 464, added photo index: 279, added slide score: 2
+slideshow index: 465, added photo index: 652, added slide score: 1
+slideshow index: 466, added photo index: 5, added slide score: 2
+slideshow index: 467, added photo indexes: 434 634, added photo score 2 3
+slideshow index: 468, added photo index: 569, added slide score: 2
+slideshow index: 469, added photo index: 597, added slide score: 1
+slideshow index: 470, added photo index: 848, added slide score: 1
+slideshow index: 471, added photo index: 381, added slide score: 3
+slideshow index: 472, added photo indexes: 466 568, added photo score 2 3
+slideshow index: 473, added photo index: 328, added slide score: 2
+slideshow index: 474, added photo index: 393, added slide score: 2
+slideshow index: 475, added photo index: 772, added slide score: 1
+slideshow index: 476, added photo index: 729, added slide score: 1
+slideshow index: 477, added photo indexes: 116 528, added photo score 2 3
+slideshow index: 478, added photo index: 822, added slide score: 2
+slideshow index: 479, added photo index: 551, added slide score: 1
+slideshow index: 480, added photo indexes: 558 185, added photo score 2 4
+slideshow index: 481, added photo index: 184, added slide score: 2
+slideshow index: 482, added photo index: 823, added slide score: 1
+slideshow index: 483, added photo index: 844, added slide score: 2
+slideshow index: 484, added photo index: 948, added slide score: 1
+slideshow index: 485, added photo indexes: 390 151, added photo score 1 2
+slideshow index: 486, added photo index: 83, added slide score: 2
+slideshow index: 487, added photo index: 786, added slide score: 1
+slideshow index: 488, added photo index: 738, added slide score: 1
+slideshow index: 489, added photo index: 606, added slide score: 1
+slideshow index: 490, added photo index: 13, added slide score: 3
+slideshow index: 491, added photo index: 485, added slide score: 2
+slideshow index: 492, added photo indexes: 345 599, added photo score 2 3
+slideshow index: 493, added photo indexes: 529 458, added photo score 2 3
+slideshow index: 494, added photo index: 239, added slide score: 2
+slideshow index: 495, added photo indexes: 182 385, added photo score 2 3
+slideshow index: 496, added photo indexes: 82 199, added photo score 3 5
+slideshow index: 497, added photo indexes: 428 427, added photo score 2 4
+slideshow index: 498, added photo index: 3, added slide score: 2
+slideshow index: 499, added photo indexes: 291 909, added photo score 2 3
+slideshow index: 500, added photo index: 217, added slide score: 2
+slideshow index: 501, added photo index: 127, added slide score: 2
+slideshow index: 502, added photo indexes: 366 696, added photo score 2 3
+slideshow index: 503, added photo index: 764, added slide score: 1
+slideshow index: 504, added photo index: 570, added slide score: 1
+slideshow index: 505, added photo index: 473, added slide score: 1
+slideshow index: 506, added photo index: 360, added slide score: 2
+slideshow index: 507, added photo index: 672, added slide score: 1
+slideshow index: 508, added photo index: 477, added slide score: 1
+slideshow index: 509, added photo indexes: 331 783, added photo score 2 2
+slideshow index: 510, added photo indexes: 336 344, added photo score 2 3
+slideshow index: 511, added photo index: 593, added slide score: 2
+slideshow index: 512, added photo index: 400, added slide score: 1
+slideshow index: 513, added photo indexes: 407 643, added photo score 2 3
+slideshow index: 514, added photo index: 530, added slide score: 2
+slideshow index: 515, added photo indexes: 382 590, added photo score 2 3
+slideshow index: 516, added photo index: 520, added slide score: 3
+slideshow index: 517, added photo index: 621, added slide score: 1
+slideshow index: 518, added photo index: 693, added slide score: 1
+slideshow index: 519, added photo indexes: 304 257, added photo score 1 2
+slideshow index: 520, added photo index: 425, added slide score: 2
+slideshow index: 521, added photo indexes: 49 246, added photo score 2 3
+slideshow index: 522, added photo index: 70, added slide score: 3
+slideshow index: 523, added photo index: 456, added slide score: 2
+slideshow index: 524, added photo index: 28, added slide score: 2
+slideshow index: 525, added photo index: 302, added slide score: 2
+slideshow index: 526, added photo index: 505, added slide score: 2
+slideshow index: 527, added photo index: 63, added slide score: 2
+slideshow index: 528, added photo indexes: 673 424, added photo score 1 2
+slideshow index: 529, added photo indexes: 168 535, added photo score 2 3
+slideshow index: 530, added photo index: 811, added slide score: 1
+slideshow index: 531, added photo index: 78, added slide score: 2
+slideshow index: 532, added photo index: 442, added slide score: 2
+slideshow index: 533, added photo index: 646, added slide score: 1
+slideshow index: 534, added photo index: 680, added slide score: 1
+slideshow index: 535, added photo index: 642, added slide score: 1
+slideshow index: 536, added photo indexes: 459 72, added photo score 1 2
+slideshow index: 537, added photo index: 526, added slide score: 2
+slideshow index: 538, added photo index: 748, added slide score: 1
+slideshow index: 539, added photo indexes: 521 699, added photo score 1 1
+slideshow index: 540, added photo indexes: 318 432, added photo score 2 3
+slideshow index: 541, added photo index: 506, added slide score: 2
+slideshow index: 542, added photo indexes: 537 398, added photo score 1 2
+slideshow index: 543, added photo index: 429, added slide score: 1
+slideshow index: 544, added photo index: 893, added slide score: 1
+slideshow index: 545, added photo index: 626, added slide score: 2
+slideshow index: 546, added photo indexes: 64 633, added photo score 2 2
+slideshow index: 547, added photo index: 433, added slide score: 3
+slideshow index: 548, added photo index: 41, added slide score: 2
+slideshow index: 549, added photo index: 602, added slide score: 1
+slideshow index: 550, added photo index: 25, added slide score: 2
+slideshow index: 551, added photo index: 396, added slide score: 1
+slideshow index: 552, added photo index: 682, added slide score: 1
+slideshow index: 553, added photo index: 667, added slide score: 1
+slideshow index: 554, added photo index: 691, added slide score: 1
+slideshow index: 555, added photo index: 486, added slide score: 1
+slideshow index: 556, added photo index: 690, added slide score: 1
+slideshow index: 557, added photo indexes: 474 426, added photo score 1 2
+slideshow index: 558, added photo index: 315, added slide score: 2
+slideshow index: 559, added photo index: 446, added slide score: 1
+slideshow index: 560, added photo index: 406, added slide score: 2
+slideshow index: 561, added photo index: 210, added slide score: 2
+slideshow index: 562, added photo index: 245, added slide score: 2
+slideshow index: 563, added photo index: 148, added slide score: 2
+slideshow index: 564, added photo index: 411, added slide score: 2
+slideshow index: 565, added photo indexes: 269 384, added photo score 2 3
+slideshow index: 566, added photo indexes: 510 445, added photo score 1 2
+slideshow index: 567, added photo index: 515, added slide score: 1
+slideshow index: 568, added photo indexes: 527 471, added photo score 1 2
+slideshow index: 569, added photo index: 176, added slide score: 2
+slideshow index: 570, added photo indexes: 403 363, added photo score 1 2
+slideshow index: 571, added photo index: 90, added slide score: 2
+slideshow index: 572, added photo indexes: 84 65, added photo score 2 3
+slideshow index: 573, added photo indexes: 478 368, added photo score 1 2
+slideshow index: 574, added photo indexes: 327 59, added photo score 2 4
+slideshow index: 575, added photo index: 301, added slide score: 2
+slideshow index: 576, added photo index: 420, added slide score: 1
+slideshow index: 577, added photo index: 274, added slide score: 1
+slideshow index: 578, added photo index: 377, added slide score: 1
+slideshow index: 579, added photo index: 655, added slide score: 1
+slideshow index: 580, added photo index: 649, added slide score: 1
+slideshow index: 581, added photo index: 734, added slide score: 1
+slideshow index: 582, added photo index: 565, added slide score: 1
+slideshow index: 583, added photo index: 854, added slide score: 1
+slideshow index: 584, added photo index: 379, added slide score: 1
+slideshow index: 585, added photo index: 519, added slide score: 1
+slideshow index: 586, added photo index: 235, added slide score: 2
+slideshow index: 587, added photo indexes: 408 343, added photo score 1 2
+slideshow index: 588, added photo indexes: 188 27, added photo score 2 4
+slideshow index: 589, added photo index: 303, added slide score: 2
+slideshow index: 590, added photo index: 283, added slide score: 1
+slideshow index: 591, added photo indexes: 256 523, added photo score 2 3
+slideshow index: 592, added photo index: 229, added slide score: 2
+slideshow index: 593, added photo index: 421, added slide score: 1
+slideshow index: 594, added photo indexes: 10 395, added photo score 2 3
+slideshow index: 595, added photo indexes: 157 449, added photo score 2 3
+slideshow index: 596, added photo indexes: 204 183, added photo score 2 3
+slideshow index: 597, added photo index: 50, added slide score: 3
+slideshow index: 598, added photo index: 610, added slide score: 1
+slideshow index: 599, added photo indexes: 165 172, added photo score 2 3
+slideshow index: 600, added photo index: 367, added slide score: 2
+slideshow index: 601, added photo index: 439, added slide score: 1
+slideshow index: 602, added photo index: 460, added slide score: 1
+slideshow index: 603, added photo index: 35, added slide score: 2
+slideshow index: 604, added photo indexes: 383 353, added photo score 2 3
+slideshow index: 605, added photo indexes: 190 118, added photo score 2 4
+slideshow index: 606, added photo index: 9, added slide score: 2
+slideshow index: 607, added photo index: 60, added slide score: 2
+slideshow index: 608, added photo index: 197, added slide score: 2
+slideshow index: 609, added photo indexes: 66 447, added photo score 2 3
+slideshow index: 610, added photo index: 311, added slide score: 2
+slideshow index: 611, added photo index: 397, added slide score: 1
+slideshow index: 612, added photo index: 349, added slide score: 1
+slideshow index: 613, added photo index: 389, added slide score: 1
+slideshow index: 614, added photo index: 448, added slide score: 1
+slideshow index: 615, added photo index: 265, added slide score: 1
+slideshow index: 616, added photo indexes: 270 297, added photo score 2 3
+slideshow index: 617, added photo index: 441, added slide score: 1
+slideshow index: 618, added photo indexes: 518 418, added photo score 1 2
+slideshow index: 619, added photo indexes: 399 171, added photo score 1 2
+slideshow index: 620, added photo index: 48, added slide score: 2
+slideshow index: 621, added photo indexes: 419 321, added photo score 1 2
+slideshow index: 622, added photo indexes: 101 223, added photo score 2 3
+slideshow index: 623, added photo indexes: 163 266, added photo score 2 3
+slideshow index: 624, added photo indexes: 600 128, added photo score 1 2
+slideshow index: 625, added photo index: 202, added slide score: 2
+slideshow index: 626, added photo indexes: 150 94, added photo score 2 3
+slideshow index: 627, added photo index: 369, added slide score: 2
+slideshow index: 628, added photo index: 554, added slide score: 1
+slideshow index: 629, added photo index: 294, added slide score: 1
+slideshow index: 630, added photo index: 378, added slide score: 1
+slideshow index: 631, added photo index: 346, added slide score: 1
+slideshow index: 632, added photo index: 540, added slide score: 1
+slideshow index: 633, added photo index: 220, added slide score: 1
+slideshow index: 634, added photo index: 319, added slide score: 1
+slideshow index: 635, added photo index: 491, added slide score: 1
+slideshow index: 636, added photo index: 351, added slide score: 1
+slideshow index: 637, added photo index: 357, added slide score: 1
+slideshow index: 638, added photo index: 317, added slide score: 1
+slideshow index: 639, added photo index: 232, added slide score: 1
+slideshow index: 640, added photo index: 149, added slide score: 1
+slideshow index: 641, added photo index: 374, added slide score: 1
+slideshow index: 642, added photo index: 228, added slide score: 1
+slideshow index: 643, added photo index: 87, added slide score: 2
+slideshow index: 644, added photo index: 639, added slide score: 1
+slideshow index: 645, added photo index: 136, added slide score: 1
+slideshow index: 646, added photo indexes: 512 52, added photo score 1 2
+slideshow index: 647, added photo index: 312, added slide score: 1
+slideshow index: 648, added photo index: 358, added slide score: 1
+slideshow index: 649, added photo index: 233, added slide score: 2
+slideshow index: 650, added photo index: 380, added slide score: 1
+slideshow index: 651, added photo index: 489, added slide score: 0
+slideshow index: 652, added photo index: 323, added slide score: 1
+slideshow index: 653, added photo index: 347, added slide score: 1
+slideshow index: 654, added photo index: 98, added slide score: 2
+slideshow index: 655, added photo index: 140, added slide score: 2
+slideshow index: 656, added photo index: 308, added slide score: 1
+slideshow index: 657, added photo index: 21, added slide score: 1
+slideshow index: 658, added photo index: 203, added slide score: 2
+slideshow index: 659, added photo indexes: 119 307, added photo score 2 3
+slideshow index: 660, added photo index: 362, added slide score: 1
+slideshow index: 661, added photo index: 342, added slide score: 1
+slideshow index: 662, added photo index: 284, added slide score: 1
+slideshow index: 663, added photo index: 340, added slide score: 1
+slideshow index: 664, added photo index: 187, added slide score: 1
+slideshow index: 665, added photo index: 282, added slide score: 1
+slideshow index: 666, added photo index: 261, added slide score: 1
+slideshow index: 667, added photo indexes: 15 180, added photo score 2 3
+slideshow index: 668, added photo index: 287, added slide score: 1
+slideshow index: 669, added photo index: 431, added slide score: 1
+slideshow index: 670, added photo index: 14, added slide score: 1
+slideshow index: 671, added photo index: 298, added slide score: 1
+slideshow index: 672, added photo index: 19, added slide score: 2
+slideshow index: 673, added photo index: 354, added slide score: 1
+slideshow index: 674, added photo indexes: 68 322, added photo score 1 1
+slideshow index: 675, added photo indexes: 253 126, added photo score 1 2
+slideshow index: 676, added photo index: 292, added slide score: 1
+slideshow index: 677, added photo index: 268, added slide score: 1
+slideshow index: 678, added photo index: 240, added slide score: 1
+slideshow index: 679, added photo indexes: 206 310, added photo score 1 1
+slideshow index: 680, added photo index: 45, added slide score: 2
+slideshow index: 681, added photo index: 333, added slide score: 1
+slideshow index: 682, added photo indexes: 234 115, added photo score 1 2
+slideshow index: 683, added photo index: 208, added slide score: 2
+slideshow index: 684, added photo indexes: 250 143, added photo score 1 2
+slideshow index: 685, added photo indexes: 37 36, added photo score 2 3
+slideshow index: 686, added photo index: 135, added slide score: 1
+slideshow index: 687, added photo index: 39, added slide score: 1
+slideshow index: 688, added photo indexes: 71 26, added photo score 1 2
+slideshow index: 689, added photo index: 166, added slide score: 2
+slideshow index: 690, added photo index: 305, added slide score: 1
+slideshow index: 691, added photo indexes: 131 264, added photo score 1 1
+slideshow index: 692, added photo index: 230, added slide score: 2
+slideshow index: 693, added photo index: 139, added slide score: 1
+slideshow index: 694, added photo indexes: 130 221, added photo score 2 2
+slideshow index: 695, added photo index: 193, added slide score: 1
+slideshow index: 696, added photo index: 205, added slide score: 1
+slideshow index: 697, added photo indexes: 144 218, added photo score 1 1
+slideshow index: 698, added photo indexes: 54 97, added photo score 2 3
+slideshow index: 699, added photo index: 194, added slide score: 1
+slideshow index: 700, added photo index: 209, added slide score: 1
+slideshow index: 701, added photo indexes: 191 158, added photo score 1 1
+slideshow index: 702, added photo index: 326, added slide score: 1
+slideshow index: 703, added photo index: 167, added slide score: 1
+slideshow index: 704, added photo index: 4, added slide score: 2
+slideshow index: 705, added photo index: 75, added slide score: 1
+slideshow index: 706, added photo index: 142, added slide score: 1
+slideshow index: 707, added photo index: 316, added slide score: 0
+slideshow index: 708, added photo indexes: 79 57, added photo score 1 2
+slideshow index: 709, added photo index: 293, added slide score: 1
+slideshow index: 710, added photo index: 110, added slide score: 1
+slideshow index: 711, added photo index: 43, added slide score: 1
+slideshow index: 712, added photo index: 122, added slide score: 1
+slideshow index: 713, added photo index: 141, added slide score: 1
+slideshow index: 714, added photo index: 29, added slide score: 1
+slideshow index: 715, added photo indexes: 86 152, added photo score 1 1
+slideshow index: 716, added photo index: 100, added slide score: 2
+slideshow index: 717, added photo index: 74, added slide score: 2
+slideshow index: 718, added photo index: 112, added slide score: 1
+slideshow index: 719, added photo index: 177, added slide score: 1
+slideshow index: 720, added photo indexes: 61 123, added photo score 1 1
+slideshow index: 721, added photo index: 276, added slide score: 1
+slideshow index: 722, added photo index: 186, added slide score: 1
+slideshow index: 723, added photo index: 7, added slide score: 1
+slideshow index: 724, added photo index: 174, added slide score: 1
+slideshow index: 725, added photo index: 212, added slide score: 1
+slideshow index: 726, added photo index: 107, added slide score: 1
+slideshow index: 727, added photo indexes: 53 117, added photo score 1 1
+slideshow index: 728, added photo index: 132, added slide score: 1
+slideshow index: 729, added photo index: 278, added slide score: 0
+slideshow index: 730, added photo index: 213, added slide score: 0
+slideshow index: 731, added photo index: 77, added slide score: 1
+slideshow index: 732, added photo indexes: 6 104, added photo score 1 1
+slideshow index: 733, added photo index: 111, added slide score: 1
+slideshow index: 734, added photo index: 11, added slide score: 1
+slideshow index: 735, added photo indexes: 69 58, added photo score 1 1
+slideshow index: 736, added photo index: 192, added slide score: 0
+slideshow index: 737, added photo index: 1, added slide score: 1
+slideshow index: 738, added photo index: 170, added slide score: 0
+slideshow index: 739, added photo indexes: 32 44, added photo score 1 1
+slideshow index: 740, added photo index: 164, added slide score: 1
+slideshow index: 741, added photo index: 120, added slide score: 0
+slideshow index: 742, added photo index: 106, added slide score: 0
+slideshow index: 743, added photo index: 16, added slide score: 1
+slideshow index: 744, added photo index: 62, added slide score: 1
+slideshow index: 745, added photo index: 56, added slide score: 0
+slideshow index: 746, added photo index: 42, added slide score: 0
+slideshow index: 747, added photo index: 33, added slide score: 0
+slideshow index: 748, added photo index: 24, added slide score: 0
+slideshow index: 749, added photo index: 17, added slide score: 0
