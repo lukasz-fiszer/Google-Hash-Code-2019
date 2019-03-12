@@ -124,7 +124,6 @@ class Evaluator:
 		# score part after swap
 		score_part2 = self.score_from_slides(index1, index2)
 
-		# score_change = score_part2 - score_part
 		score_change = score_part2 - score_part1
 
 		# reswap if needed, if score did not rise
